@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.github.com/dyldlewis/oido"
           target="_blank"
           rel="noopener noreferrer"
         >
