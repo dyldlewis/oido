@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+
+button {
+  color: #00B5AC;
+  background-color: #195176;
+  font-family: 'Karla', sans-serif;
+  font-size: 20px;
+  width: 200px;
+  height: 40px;
+  border-radius: 5%;
+  border-style: none;
+  margin: 40px;
+}
